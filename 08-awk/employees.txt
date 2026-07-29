@@ -1,0 +1,4 @@
+Kartik 21 DevOps
+Tom 25 Linux
+Aizen 30 AWS
+John 28 Docker
