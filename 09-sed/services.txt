@@ -1,0 +1,6 @@
+nginx
+docker
+jenkins
+kubernetes
+terraform
+ansible

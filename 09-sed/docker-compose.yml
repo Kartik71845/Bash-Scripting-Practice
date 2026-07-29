@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  frontend:
+    image: nginx:1.26
+    ports:
+      - "80:80"
+
+  backend:
+    image: node:20
+    ports:
+      - "5000:5000"
+
+  database:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: root
