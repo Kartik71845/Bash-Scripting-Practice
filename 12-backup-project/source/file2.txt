@@ -1,0 +1,9 @@
+Docker commands
+
+docker ps
+docker images
+docker run
+docker stop
+docker rm
+docker logs
+docker exec
