@@ -1,0 +1,10 @@
+INFO Server started
+INFO User logged in
+WARNING High CPU usage
+ERROR Database connection failed
+INFO API request received
+ERROR Disk full
+WARNING Memory usage high
+INFO Backup completed
+ERROR Timeout while connecting
+INFO Server stopped
