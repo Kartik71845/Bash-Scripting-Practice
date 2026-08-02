@@ -4,7 +4,8 @@ if [[ $# -ne 2 ]]
 then
 	echo "wrong argument, use it like bash verify-deployment.sh <image-name> <port>"
         exit 1
-i 
+i
+fi
 
 if docker --version &>/dev/null
 then 

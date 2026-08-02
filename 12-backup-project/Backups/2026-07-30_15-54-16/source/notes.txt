@@ -1,9 +1,0 @@
-Backup Project Notes
-
-This folder contains sample files for the Bash backup project.
-
-The backup script should:
-- Take a source folder as an argument.
-- Create a timestamped backup directory.
-- Copy all files into the backup directory.
-- Display a success or failure message.
