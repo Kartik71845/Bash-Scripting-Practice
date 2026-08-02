@@ -1,5 +1,3 @@
-# Bash-Scripting-Practice
-
 # Bash Scripting Practice
 
 ## Overview
